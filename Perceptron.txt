@@ -1,0 +1,12 @@
+Projekt Perceptron
+
+
+- implementacja klasy Perceptron (obliczanie sygna³u s, generowanie wyjœcia y, 
+krokowy proces uczenia z mo¿liwoœci¹ okreœlenia wspó³czynnika uczenia, 
+losowanie wag z zadanego przedzia³u, test Perceptronu),
+
+- implementacja procesu uczenia w postaci krokowej
+
+- program oferuje mo¿liwoœæ wyboru zbioru ucz¹cego dla funkcji: OR, AND, NAND i NOR,
+
+- program prezentuje graficznie proces uczenia dla wybranej funkcji logicznej.
